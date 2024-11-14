@@ -1,0 +1,748 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -121.87313842773438, 47.89263916015625 ]
+      },
+      "properties": {
+        "id": "0000488db78a0892145cd0e7d94cc053",
+        "obDateTime": "2024-10-08T19:20:00+00:00",
+        "relativeHumidity": 99,
+        "uvIndex": 0,
+        "solarRadiation": 19.24,
+        "windGust": {
+          "dailyMax": 6.5,
+          "speed": 1.3
+        },
+        "wind": {
+          "speed": 1.1,
+          "direction": 218
+        },
+        "temperature": 59,
+        "rainHourly": 0,
+        "rainDaily": 0.38,
+        "relativePressure": 29.6,
+        "absolutePressure": 29.6,
+        "airQuality": {
+          "pM25": 0,
+          "pM2524Hour": 11.6
+        },
+        "wind10M": {
+          "speed": 0,
+          "direction": 238
+        },
+        "rainWeekly": 0.38,
+        "rainMonthly": 0.7,
+        "rainYearly": 28.07,
+        "rainEvent": 0.38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -75.55249786376953, 40.51791000366211 ]
+      },
+      "properties": {
+        "id": "0000cf9c8651351f1b08598e20009814",
+        "obDateTime": "2024-10-08T19:18:00+00:00",
+        "relativeHumidity": 39,
+        "uvIndex": 2,
+        "solarRadiation": 73.36,
+        "windGust": {
+          "dailyMax": 13.6,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 1.1,
+          "direction": 241
+        },
+        "temperature": 66,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.89,
+        "absolutePressure": 29.52,
+        "rainWeekly": 0,
+        "rainMonthly": 0.04,
+        "rainYearly": 0.96,
+        "rainEvent": 0,
+        "rainTotal": 0.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -97.75032043457031, 30.313289642333984 ]
+      },
+      "properties": {
+        "id": "00016c8ebd8be7c58e4be93564fbf873",
+        "obDateTime": "2024-10-08T19:14:00+00:00",
+        "relativeHumidity": 36,
+        "uvIndex": 2,
+        "solarRadiation": 72.89,
+        "windGust": {
+          "dailyMax": 5.8,
+          "speed": 2.2
+        },
+        "wind": {
+          "speed": 0.9,
+          "direction": 350
+        },
+        "temperature": 91,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.95,
+        "absolutePressure": 29.25,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 57.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -149.79957580566406, 61.07474136352539 ]
+      },
+      "properties": {
+        "id": "0001784745fb378fbc723668f40b3044",
+        "obDateTime": "2024-10-08T19:18:00+00:00",
+        "relativeHumidity": 76,
+        "uvIndex": 0,
+        "solarRadiation": 28.18,
+        "windGust": {
+          "dailyMax": 3.4,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 0.4,
+          "direction": 15
+        },
+        "temperature": 44,
+        "rainHourly": 0,
+        "rainDaily": 0.01,
+        "relativePressure": 29.69,
+        "absolutePressure": 29.33,
+        "rainWeekly": 0.01,
+        "rainMonthly": 0.01,
+        "rainYearly": 16.1,
+        "rainEvent": 0,
+        "rainTotal": 16.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -121.00298309326172, 39.281368255615234 ]
+      },
+      "properties": {
+        "id": "000193a62736d7c3063c747037076949",
+        "obDateTime": "2024-10-08T19:21:00+00:00",
+        "relativeHumidity": 19,
+        "windGust": {
+          "dailyMax": 6.9,
+          "speed": 5.8
+        },
+        "wind": {
+          "speed": 4.5,
+          "direction": 280
+        },
+        "temperature": 88,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 26.93,
+        "absolutePressure": 26.93,
+        "wind10M": { "direction": 91 },
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainYearly": 0.56,
+        "rainEvent": 0,
+        "rainTotal": 0.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.70694732666016, 39.22686004638672 ]
+      },
+      "properties": {
+        "id": "0001c38ae0b0d7eb0bc8e3f8623c1d64",
+        "obDateTime": "2024-10-08T19:19:00+00:00",
+        "relativeHumidity": 33,
+        "uvIndex": 2.9,
+        "solarRadiation": 131.75,
+        "windGust": {
+          "dailyMax": 8,
+          "speed": 2
+        },
+        "wind": {
+          "speed": 2,
+          "direction": 279
+        },
+        "temperature": 70,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.39,
+        "absolutePressure": 29.73,
+        "rainWeekly": 0.02,
+        "rainMonthly": 0.11,
+        "rainYearly": 16.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -96.25672149658203, 30.275009155273438 ]
+      },
+      "properties": {
+        "id": "000278ef642e90bf3b6a9402f4c2ce2b",
+        "obDateTime": "2024-10-08T19:06:00+00:00",
+        "relativeHumidity": 35,
+        "windGust": { "speed": 13.2 },
+        "wind": {
+          "speed": 5.6,
+          "direction": 37
+        },
+        "temperature": 88,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.98,
+        "absolutePressure": 29.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -119.62338256835938, 39.38486862182617 ]
+      },
+      "properties": {
+        "id": "0002f8253cc66879b3e34534ea2f9ab8",
+        "obDateTime": "2024-10-08T19:15:00+00:00",
+        "relativeHumidity": 21,
+        "uvIndex": 1,
+        "solarRadiation": 44.41,
+        "windGust": {
+          "dailyMax": 9.2,
+          "speed": 4.5
+        },
+        "wind": {
+          "speed": 2.7,
+          "direction": 232
+        },
+        "temperature": 76,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.99,
+        "absolutePressure": 24.4,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 5.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -81.86837768554688, 26.64150047302246 ]
+      },
+      "properties": {
+        "id": "0003d296421f85e113d9fcc2aae46c21",
+        "obDateTime": "2024-10-08T19:18:00+00:00",
+        "relativeHumidity": 85,
+        "uvIndex": 1,
+        "solarRadiation": 34.85,
+        "windGust": {
+          "dailyMax": 11.9,
+          "speed": 3.6
+        },
+        "wind": {
+          "speed": 2.2,
+          "direction": 340
+        },
+        "temperature": 82,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.65,
+        "absolutePressure": 29.65,
+        "lightning": {
+          "day": 0,
+          "hour": 0,
+          "dateTime": "2024-10-07T11:04:00+00:00",
+          "distance": 0.62
+        },
+        "wind10M": { "direction": 7 },
+        "rainWeekly": 1.48,
+        "rainMonthly": 4.61,
+        "rainYearly": 44.63,
+        "rainEvent": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.11202239990234, 47.365718841552734 ]
+      },
+      "properties": {
+        "id": "00050cf536f11f567eb652f313d77c8e",
+        "obDateTime": "2024-10-08T19:18:00+00:00",
+        "relativeHumidity": 97,
+        "uvIndex": 1,
+        "solarRadiation": 49.79,
+        "windGust": {
+          "dailyMax": 2.2,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 0.9,
+          "direction": 343
+        },
+        "temperature": 61,
+        "rainHourly": 0,
+        "rainDaily": 0.22,
+        "relativePressure": 29.66,
+        "absolutePressure": 29.66,
+        "wind10M": { "direction": 7 },
+        "rainWeekly": 0.22,
+        "rainMonthly": 0.77,
+        "rainYearly": 27.71,
+        "rainEvent": 0.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.61296081542969, 34.03982162475586 ]
+      },
+      "properties": {
+        "id": "0005d24e27ba673abf94e45b157b63c9",
+        "obDateTime": "2024-10-08T19:15:00+00:00",
+        "relativeHumidity": 55,
+        "uvIndex": 0,
+        "solarRadiation": 9.68,
+        "windGust": {
+          "dailyMax": 6.9,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 0,
+          "direction": 129
+        },
+        "temperature": 76,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 28.75,
+        "absolutePressure": 28.75,
+        "wind10M": { "direction": 129 },
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainYearly": 45.16,
+        "rainEvent": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -75.53450012207031, 39.815269470214844 ]
+      },
+      "properties": {
+        "id": "00060cbf53a5e58c6ee86c6125b1bbad",
+        "obDateTime": "2024-10-08T19:16:00+00:00",
+        "relativeHumidity": 40,
+        "uvIndex": 3,
+        "solarRadiation": 122.14,
+        "windGust": {
+          "dailyMax": 12.5,
+          "speed": 4.5
+        },
+        "wind": {
+          "speed": 3.8,
+          "direction": 2
+        },
+        "temperature": 68,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 30.09,
+        "absolutePressure": 29.51,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 98.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -82.68750762939453, 40.03314971923828 ]
+      },
+      "properties": {
+        "id": "000702cc42a2276e475a0f4986a1bc79",
+        "obDateTime": "2024-10-08T19:16:00+00:00",
+        "relativeHumidity": 38,
+        "uvIndex": 0,
+        "solarRadiation": 10.37,
+        "windGust": {
+          "dailyMax": 5.8,
+          "speed": 2.2
+        },
+        "wind": {
+          "speed": 1.8,
+          "direction": 124
+        },
+        "temperature": 66,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.81,
+        "absolutePressure": 28.77,
+        "rainWeekly": 0,
+        "rainMonthly": 0.14,
+        "rainYearly": 13.45,
+        "rainEvent": 0,
+        "rainTotal": 13.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.99333953857422, 42.64638900756836 ]
+      },
+      "properties": {
+        "id": "000736b2968740f68c893af9d1e287d1",
+        "obDateTime": "2024-10-08T19:16:00+00:00",
+        "relativeHumidity": 34,
+        "uvIndex": 3,
+        "solarRadiation": 124.44,
+        "windGust": {
+          "dailyMax": 13.6,
+          "speed": 6.9
+        },
+        "wind": {
+          "speed": 3.6,
+          "direction": 299
+        },
+        "temperature": 67,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.29,
+        "absolutePressure": 28.92,
+        "rainWeekly": 0,
+        "rainMonthly": 0.07,
+        "rainEvent": 0,
+        "rainTotal": 180.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -80.90115356445312, 35.38808059692383 ]
+      },
+      "properties": {
+        "id": "00092e0929613756d253f763536df4ca",
+        "obDateTime": "2024-10-08T19:15:00+00:00",
+        "relativeHumidity": 55,
+        "uvIndex": 4,
+        "solarRadiation": 157.02,
+        "windGust": {
+          "dailyMax": 10.3,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 0.7,
+          "direction": 44
+        },
+        "temperature": 73,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.95,
+        "absolutePressure": 29.22,
+        "rainWeekly": 0.01,
+        "rainMonthly": 0.1,
+        "rainEvent": 0,
+        "rainTotal": 197.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -121.5952377319336, 37.0082893371582 ]
+      },
+      "properties": {
+        "id": "00096a1a23bc0c46847349d96192c880",
+        "obDateTime": "2024-10-08T19:14:00+00:00",
+        "relativeHumidity": 40,
+        "uvIndex": 5,
+        "solarRadiation": 182.73,
+        "windGust": {
+          "dailyMax": 4.5,
+          "speed": 0
+        },
+        "wind": {
+          "speed": 0,
+          "direction": 91
+        },
+        "temperature": 85,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.78,
+        "absolutePressure": 29.67,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.85872650146484, 39.21598815917969 ]
+      },
+      "properties": {
+        "id": "0009b1b126955cf8cde1d5efa2b1ec42",
+        "obDateTime": "2024-10-08T19:16:00+00:00",
+        "relativeHumidity": 43,
+        "uvIndex": 4,
+        "solarRadiation": 141.35,
+        "windGust": {
+          "dailyMax": 12.5,
+          "speed": 8.1
+        },
+        "wind": {
+          "speed": 4.9,
+          "direction": 39
+        },
+        "temperature": 69,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 30.14,
+        "absolutePressure": 29.45,
+        "rainWeekly": 0.1,
+        "rainMonthly": 0.3,
+        "rainEvent": 0,
+        "rainTotal": 131.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.60057830810547, 41.5306282043457 ]
+      },
+      "properties": {
+        "id": "0009ce4c2ed2618608ad0da8463f3124",
+        "obDateTime": "2024-10-08T19:20:00+00:00",
+        "relativeHumidity": 41,
+        "uvIndex": 1,
+        "solarRadiation": 35.17,
+        "windGust": {
+          "dailyMax": 14.8,
+          "speed": 8.1
+        },
+        "wind": {
+          "speed": 6.5,
+          "direction": 238
+        },
+        "temperature": 70,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.86,
+        "absolutePressure": 29.32,
+        "rainWeekly": 0,
+        "rainMonthly": 0.51,
+        "rainEvent": 0,
+        "rainTotal": 229.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -112.55391693115234, 34.7495002746582 ]
+      },
+      "properties": {
+        "id": "000b33f1e44cefbabe7e28bb229f838d",
+        "obDateTime": "2024-10-08T19:14:00+00:00",
+        "relativeHumidity": 16,
+        "uvIndex": 6,
+        "solarRadiation": 226.19,
+        "windGust": {
+          "dailyMax": 10.3,
+          "speed": 6.9
+        },
+        "wind": {
+          "speed": 6,
+          "direction": 88
+        },
+        "temperature": 84,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 30.03,
+        "absolutePressure": 24.82,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -82.95481872558594, 43.29933166503906 ]
+      },
+      "properties": {
+        "id": "000c0eb94ac183c27c53bc4fc752086d",
+        "obDateTime": "2024-10-08T19:19:00+00:00",
+        "relativeHumidity": 57,
+        "uvIndex": 0,
+        "solarRadiation": 25.01,
+        "windGust": {
+          "dailyMax": 22.8,
+          "speed": 8.1
+        },
+        "wind": {
+          "speed": 6.9,
+          "direction": 286
+        },
+        "temperature": 60,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.92,
+        "absolutePressure": 29.66,
+        "rainWeekly": 0,
+        "rainMonthly": 0.21,
+        "rainEvent": 0,
+        "rainTotal": 178.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -80.19412231445312, 25.765209197998047 ]
+      },
+      "properties": {
+        "id": "000c17af749e350ef93c3d43b69679cb",
+        "obDateTime": "2024-10-08T19:19:00+00:00",
+        "rainHourly": 0,
+        "rainDaily": 0.29,
+        "relativePressure": 29.48,
+        "absolutePressure": 29.48,
+        "wind10M": { "direction": 0 },
+        "rainWeekly": 2.91,
+        "rainMonthly": 11.45,
+        "rainYearly": 18.45,
+        "rainEvent": 4.06,
+        "rainTotal": 18.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -112.51303100585938, 34.520240783691406 ]
+      },
+      "properties": {
+        "id": "000c2260d3f88ef07981acd4d4e1890a",
+        "obDateTime": "2024-10-08T19:17:00+00:00",
+        "relativeHumidity": 11,
+        "uvIndex": 5,
+        "solarRadiation": 169.94,
+        "windGust": {
+          "dailyMax": 6.9,
+          "speed": 2.2
+        },
+        "wind": {
+          "speed": 1.8,
+          "direction": 136
+        },
+        "temperature": 89,
+        "rainHourly": 0,
+        "rainDaily": 0,
+        "relativePressure": 29.89,
+        "absolutePressure": 24.41,
+        "rainWeekly": 0,
+        "rainMonthly": 0,
+        "rainEvent": 0,
+        "rainTotal": 144.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -124.10872650146484, 46.86587142944336 ]
+      },
+      "properties": {
+        "id": "000c2b01752461b3bcd72a54c658892e",
+        "obDateTime": "2024-10-08T19:18:00+00:00",
+        "relativeHumidity": 99,
+        "windGust": {
+          "dailyMax": 19.5,
+          "speed": 4.5
+        },
+        "wind": {
+          "speed": 2.9,
+          "direction": 265
+        },
+        "temperature": 58,
+        "rainHourly": 0,
+        "rainDaily": 0.24,
+        "relativePressure": 29.55,
+        "absolutePressure": 30.01,
+        "rainWeekly": 0.24,
+        "rainMonthly": 1.29,
+        "rainYearly": 49.09,
+        "rainEvent": 0.24,
+        "rainTotal": 59.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -122.41887664794922, 47.64820861816406 ]
+      },
+      "properties": {
+        "id": "000cbfb7991387b11c86e8ae6485d2e4",
+        "obDateTime": "2024-10-08T19:20:00+00:00",
+        "relativeHumidity": 93,
+        "uvIndex": 1,
+        "solarRadiation": 50.74,
+        "windGust": {
+          "dailyMax": 13.6,
+          "speed": 1.1
+        },
+        "wind": {
+          "speed": 0.7,
+          "direction": 167
+        },
+        "temperature": 59,
+        "rainHourly": 0,
+        "rainDaily": 0.27,
+        "relativePressure": 29.89,
+        "absolutePressure": 29.94,
+        "rainWeekly": 0.27,
+        "rainMonthly": 0.8,
+        "rainEvent": 0.27,
+        "rainTotal": 41.46
+      }
+    }
+  ]
+}
